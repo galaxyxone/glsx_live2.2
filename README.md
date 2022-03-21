@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Quick Start
 
-1. Configure your React app in the Auth0 Dashboard as outlined in the course.
+1. Configure your Application in the Auth0 Dashboard
 
 2. Create a .env file in the project root (same directory as package.json) that contains the following:
 
