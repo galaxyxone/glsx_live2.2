@@ -26,4 +26,4 @@ npm start
 ```
 # glsx-master-1.22
 
-QmT2Dbeq6yUeiRhxPRSAqVRYEmhuvqXskBRLP2onXUDuiE
+license MIT
