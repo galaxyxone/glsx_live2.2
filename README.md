@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Demo Video
-[![Alternate Text]({image-url})]({https://user-images.githubusercontent.com/30084404/159207394-5b48aae0-baba-4163-91da-18c53e53067d.mov} "Galerielestudio-demo")
-https://user-images.githubusercontent.com/30084404/159207394-5b48aae0-baba-4163-91da-18c53e53067d.mov
+## Previews
+![galerielestudio](https://user-images.githubusercontent.com/30084404/159200476-003161a1-7701-45fd-8d15-4bc9513f46d0.png)
+![coa-galerielestudio](https://user-images.githubusercontent.com/30084404/159204299-ba62659c-3f69-42da-ae21-3af360837ab1.png)
 
 # Quick Start
 
